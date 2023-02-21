@@ -72,5 +72,3 @@ int _atoi(char *s)
 
 	return (output);
 }
-
-/* Boss man Segun pls delete this line */
